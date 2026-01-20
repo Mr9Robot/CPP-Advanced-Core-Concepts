@@ -10,7 +10,7 @@ struct stEmployee {
 
 int main() {
     // 2D Arrays
-    int matrix[2][3] = {{1, 2, 3}, {4, 5, 6}};
+    int matrix[2][3] = {{1, 3, 3}, {4, 5, 6}};
 
     // Vectors Initialization and Manipulation
     std::vector<int> numbers = {10, 20, 30};
@@ -33,4 +33,5 @@ int main() {
     }
 
     return 0;
+
 }
